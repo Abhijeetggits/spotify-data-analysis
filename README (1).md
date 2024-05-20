@@ -43,7 +43,7 @@ Minor and Major
 
 ## Authors
 
-- [@Jarvisggits47](https://www.linkedin.com/in/abhijeet-patel-a72908270/)
+- [@Abhijeetggits47](https://www.linkedin.com/in/abhijeet-patel-a72908270/)
 
 
 ## 🛠 Skills
