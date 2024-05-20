@@ -1,5 +1,5 @@
 
-# 🚀Hi, I'm Anand 👋
+# 🚀Hi, I'm Abhijeet  👋
 I am a dedicated Data and Computational Intelligence student.My goal is to continuously improve my skills and provide valuable insights through data.
 
 
@@ -43,7 +43,7 @@ Minor and Major
 
 ## Authors
 
-- [@Jarvisggits47](https://github.com/Jarvisggits47)
+- [@Jarvisggits47](https://www.linkedin.com/in/abhijeet-patel-a72908270/)
 
 
 ## 🛠 Skills
